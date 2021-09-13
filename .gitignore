@@ -8,7 +8,6 @@ local.properties
 .settings
 .classpath
 
-**/Pods/
 **/*.xcuserstate
 ios-snippets/Podfile.lock
 ios-snippets/mlkit-snippets.xcworkspace/xcuserdata/dfurlong.xcuserdatad/UserInterfaceState.xcuserstate
