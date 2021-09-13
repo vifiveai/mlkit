@@ -20,6 +20,3 @@ pod 'GoogleMLKit/TextRecognitionKorean', '2.3.0'
 
 target 'VisionExample' do
 end
-
-target 'VisionExampleObjC' do
-end
